@@ -4,17 +4,21 @@
 
 
 
-#### LANGUAGES AND TOOLS
+### LANGUAGES AND TOOLS
 
-Actually working with these languages
+<span><img src="logos/programming languages/java.svg" width="100" height="100"></span>
 
-<p align="left">
-<span><img src="logos/programming languages/java.svg" width="60" height="60"></span>
-<span><img src="logos/frameworks/spring.svg" width="50" height="60"></span>
-<span><img src="logos/databases/mysql.svg" width="60" height="60"></span>
-</p>
+### FRAMEWORKS
+
+<span><img src="logos/frameworks/spring.svg" width="100" height="75"></span>
 
 
+
+### DATABASES
+
+<span><img src="logos/databases/mysql.svg" width="100" height="100"></span>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fr4ncisx&show_icons=true&locale=es&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>
 
 
  
