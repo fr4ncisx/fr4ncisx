@@ -1,6 +1,6 @@
 ## <div align="left">I'm Francisco, full-time backend developer (In progress..)</div>  
 
-- 🔭 I’m currently working on my [Learning-Path](learning-path)  
+- 🔭 I’m currently working on my [Learning-Path](#learning-path)  
   
 
 - ⚡ Fun fact: I'm an auto-saver code and auto-formatter code every 1 min🤫  
