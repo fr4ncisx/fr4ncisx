@@ -7,7 +7,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="40%" style="background: black;">
+<table><tr><td valign="top" width="33%" style="background: black;">
 
 
 
@@ -17,7 +17,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="40%" style="background: black;">
+</td><td valign="top" width="33%" style="background: black;">
 
 
 
@@ -28,7 +28,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="20%" style="background: black;">
+</td><td valign="top" width="33%" style="background: black;">
 
 
 
@@ -43,7 +43,7 @@
 
 
 ## Learning Path 
-<table><tr><td valign="top" width="20%" style="background: black;">
+<table><tr><td valign="top" width="33%" style="background: black;">
 
 
 
@@ -52,7 +52,7 @@
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="40%" style="background: black;">
+</td><td valign="top" width="33%" style="background: black;">
 
 
 
@@ -63,7 +63,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="40%" style="background: black;">
+</td><td valign="top" width="33%" style="background: black;">
 
 
 
