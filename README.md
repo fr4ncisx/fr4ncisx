@@ -1,4 +1,4 @@
-## <div align="left">I'm Francisco, full-time backend developer (In progress..)</div>  
+## <div align="left">I'm Francisco, full-time backend developer (In progress..) </div>  
 
 - 🔭 I’m currently working on my [Learning-Path](#learning-path)  
   
@@ -93,29 +93,28 @@
 
 <br/>  
 
+<!-- Linea de separación de redes sociales y apoyo -->
+<h2 align="center"> Socials and Support me  </h2>
+<div align="center">
+  
+![Profile views counter](https://komarev.com/ghpvc/?username=fr4ncisx&&style=flat-square)
+<a href="https://paypal.me/devfr4ncisx" target="_blank">
+<img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"/></a>
 
-## Socials and Support me 
-<div align="left">
-            <a href="https://paypal.me/devfr4ncisx" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"
-                />
-            </a></div>
-<div align="left">
+</div>
+
+<div align="center">
   
-  ![Profile views counter](https://komarev.com/ghpvc/?username=fr4ncisx&&style=flat-square)
-  
-</div> 
-<div align="left">
-<a href="https://github.com/fr4ncisx" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/fr4ncisx" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/franciscosaurit" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-</div>  
+  <a href="https://github.com/fr4ncisx" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/fr4ncisx" target="_blank">
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram alt=instagram style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/franciscosaurit" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+
+  <img src="https://fr4ncisx.github.io/Challenge-Alura/img/AR.svg" width="10%"></img>
+
+</div>
