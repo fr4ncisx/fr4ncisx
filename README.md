@@ -1,15 +1,10 @@
-### <div align="center">I'm Francisco, full-time backend developer (In progress..)</div>  
-  
+## <div align="left">I'm Francisco, full-time backend developer (In progress..)</div>  
 
-- 🔭 I’m currently working on my  [Learning Path](LearningPath)  
+- 🔭 I’m currently working on my [Learning-Path](learning-path)  
   
 
 - ⚡ Fun fact: I'm an auto-saver code and auto-formatter code every 1 min🤫  
   
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -45,7 +40,7 @@
 <br/>  
 
 
-## Support Me  
+## Learning Path 
 <table><tr><td valign="top" width="33%">
 
 
