@@ -11,7 +11,7 @@
 
 
 
-### Frontend  
+<div align="center"> <h2> Frontend </h2></div> 
 <div align="center">  
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -23,7 +23,7 @@
 
 
 
-### Backend  
+<div align="center"> <h2> Backend </h2></div> 
 <div align="center" >  
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -34,7 +34,7 @@
 
 
 
-### DevOps  
+<div align="center"> <h2> DevOps </h2></div>  
 <div align="center"> 
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
@@ -50,7 +50,7 @@
 
 
 
-### Frontend  
+<div align="center"> <h2> Frontend  </h2></div> 
 <div align="center">  
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
@@ -59,12 +59,15 @@
 </td><td valign="top" width="33%" style="background: black;">
 
 
-### Backend  
+<div align="center"> <h2> Backend  </h2></div>
 <div align="center">
-
+  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  
 
 </div>
 
@@ -72,7 +75,7 @@
 
 
 
-### DevOps  
+<div align="center"> <h2> DevOps </h2></div> 
 <div align="center">  
 
    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
