@@ -2,9 +2,10 @@
 
 - 🔭 I’m currently working on my [Learning-Path](#learning-path)  
   
-
 - ⚡ Fun fact: I'm an auto-saver code and auto-formatter code every 1 min🤫  
-  
+
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -78,13 +79,25 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr4ncisx&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr4ncisx&hide_border=false&layout=compact&theme=tokyonight" align="center" /></div>  
 
 <br/>  
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
+            <a href="https://paypal.me/devfr4ncisx" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="left"
+                />
+            </a></div>
+<div align="left">
+  
+  ![Profile views counter](https://komarev.com/ghpvc/?username=fr4ncisx&&style=flat-square)
+  
+</div> 
+<div align="left">
 <a href="https://github.com/fr4ncisx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -94,6 +107,7 @@
 <a href="https://linkedin.com/in/franciscosaurit" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+  
 </div>  
   
 
@@ -103,17 +117,10 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=fr4ncisx&&style=flat-square)  
+
   
 
-<div align="left">
-            <a href="https://paypal.me/devfr4ncisx" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"
-                />
-            </a></div>
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
+
+
