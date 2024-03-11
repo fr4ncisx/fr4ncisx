@@ -7,7 +7,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="40%" style="background: black;">
 
 
 
@@ -17,17 +17,18 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%" style="background: black;">
+
 
 
 
 ### Backend  
-<div align="center">  
+<div align="center" >  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="20%" style="background: black;">
 
 
 
@@ -42,7 +43,7 @@
 
 
 ## Learning Path 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="20%" style="background: black;">
 
 
 
@@ -51,7 +52,7 @@
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%" style="background: black;">
 
 
 
@@ -62,7 +63,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%" style="background: black;">
 
 
 
@@ -84,7 +85,7 @@
 <br/>  
 
 
-## Connect with me  
+## Socials and Support me 
 <div align="left">
             <a href="https://paypal.me/devfr4ncisx" target="_blank" style="display: inline-block;">
                 <img
