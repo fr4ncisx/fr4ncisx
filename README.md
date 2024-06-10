@@ -91,8 +91,8 @@
 <br/>  
 
 
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr4ncisx&hide_border=false&layout=compact&theme=tokyonight" align="center" /></div>  
+<h2 align="center"> My stats at GitHub</h2> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr4ncisx&hide_border=false&layout=compact&theme=tokyonight" align="center" /></div>  
 
 <br/>  
 
