@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working on my [Learning-Path](#learning-path)  
   
-- ⚡ Fun fact: I'm an auto-saver code and auto-formatter code every 1 min🤫  
+- ⚡ Fun fact: I always want to simplify my code to get a pretty code view.
+
+- 🌱 Working hard to get my first backend job and learn more abilites!
 
 
 
@@ -36,7 +38,7 @@
 
 
 
-<div align="center"> <h2> DevOps </h2></div>  
+<div align="center"> <h2> Tools and others</h2></div>  
 <div align="center"> 
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
@@ -76,7 +78,7 @@
 
 
 
-<div align="center"> <h2> DevOps </h2></div> 
+<div align="center"> <h2> Tools and others</h2></div> 
 <div align="center">  
 
    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
