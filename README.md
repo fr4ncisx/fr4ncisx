@@ -1,10 +1,10 @@
-## <div align="left">I'm Francisco, full-time backend developer (In progress..) </div>  
+## <div align="left">I'm Francisco, full-time backend developer</div>  
 
 - 🔭 I’m currently working on my [Learning-Path](#learning-path)  
   
 - ⚡ Fun fact: I always want to simplify my code to get a pretty code view.
 
-- 🌱 Working hard to get my first backend job and learn more abilites!
+- 🌱 Working hard to learn more abilites!
 
 
 
