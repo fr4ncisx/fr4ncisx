@@ -7,6 +7,7 @@
 - 🌱 Working hard to learn more abilites!
 
 
+<div align="center">
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%" style="background: black;">
@@ -44,23 +45,15 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
 </div>
 
-</td></tr></table>  
+</td></tr></table></div>  
 
 <br/>  
 
-
+<div align="center">
+  
 ## Learning Path 
 <table><tr><td valign="top" width="33%" style="background: black;">
 
-
-
-<div align="center"> <h2> Frontend  </h2></div> 
-<div align="center">  
-
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-</div>
-
-</td><td valign="top" width="33%" style="background: black;">
 
 
 <div align="center"> <h2> Backend  </h2></div>
@@ -72,9 +65,9 @@
 
   
 
-</div>
 
-</td><td valign="top" width="33%" style="background: black;">
+
+</td><td valign="top" width="33%" style="background: black;"></div>
 
 
 
@@ -86,7 +79,7 @@
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 </div>
 
-</td></tr></table>  
+</td></tr></table> </div> 
 
 <br/>  
 
