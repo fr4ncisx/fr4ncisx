@@ -1,93 +1,90 @@
-## <div align="left">I'm Francisco, full-time backend developer</div>  
+## <div align="left">I'm Francisco, full-time backend developer</div>
 
-- 🔭 I’m currently working on my [Learning-Path](#learning-path)  
-  
-- ⚡ Fun fact: I always want to simplify my code to get a pretty code view.
-
+- 🔭 I’m currently working on my [Learning-Path](#learning-path)
+- ⚡ Fun fact: I cannot see written code misaligned
 - 🌱 Working hard to learn more abilites!
-
 
 <div align="center">
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%" style="background: black;">
+## My Skill Set
 
-
+<table><tr><td valign="top" width="33%">
 
 <div align="center"> <h2> Frontend </h2></div> 
-<div align="center">  
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript)
+
 </div>
 
-</td><td valign="top" width="33%" style="background: black;">
-
-
-
+</td><td valign="top" width="33%">
 
 <div align="center"> <h2> Backend </h2></div> 
-<div align="center" >  
+<div align="center" >
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ff9300?style=for-the-badge&logo=coffeescript)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-12980e?style=for-the-badge&logo=springboot&logoColor=FFFFFF)
+![SpringBoot](https://img.shields.io/badge/spring%20security-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-008fff?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariadb-%23003545?style=for-the-badge&logo=mariadb)
+
 </div>
 
-</td><td valign="top" width="33%" style="background: black;">
-
-
+</td><td valign="top" width="33%">
 
 <div align="center"> <h2> Tools and others</h2></div>  
-<div align="center"> 
+<div align="center">
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![JUnit5](https://img.shields.io/badge/jUnit5-FFFFFF?style=for-the-badge&logo=junit5)
+
 </div>
 
-</td></tr></table></div>  
+</td></tr></table></div>
 
-<br/>  
+<br/>
 
 <div align="center">
   
 ## Learning Path 
-<table><tr><td valign="top" width="33%" style="background: black;">
+<table><tr><td valign="top" width="33%">
 
-
-
-<div align="center"> <h2> Backend  </h2></div>
+<div align="center"> <h2> Frontend  </h2></div>
 <div align="center">
   
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=angular)
+![Typescript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+
+</td><td valign="top" width="33%""></div>
+<div align="center"> <h2> Backend  </h2></div>
+<div align="center">
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-  
-
-
-
-</td><td valign="top" width="33%" style="background: black;"></div>
-
-
+</td><td valign="top" width="33%""></div>
 
 <div align="center"> <h2> Tools and others</h2></div> 
-<div align="center">  
+<div align="center">
 
-   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff)
+
 </div>
 
-</td></tr></table> </div> 
+</td></tr></table> </div>
 
-<br/>  
-
+<br/>
 
 <h2 align="center"> My stats at GitHub</h2> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr4ncisx&hide_border=false&layout=compact&theme=tokyonight" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr4ncisx&hide_border=false&layout=compact&theme=tokyonight" align="center" /></div>
 
-<br/>  
+<br/>
 
 <!-- Linea de separación de redes sociales y apoyo -->
 <h2 align="center"> Socials and Support me  </h2>
@@ -111,6 +108,6 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 
-  <img src="https://fr4ncisx.github.io/Challenge-Alura/img/AR.svg" width="10%"></img>
+<img src="https://fr4ncisx.github.io/Challenge-Alura/img/AR.svg" width="10%"></img>
 
 </div>
