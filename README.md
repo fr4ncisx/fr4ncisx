@@ -57,7 +57,7 @@
   
 ![Angular](https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=angular)
 ![Typescript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript)
-![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20css-1f1379?style=for-the-badge&logo=tailwindcss)
 
 </td><td valign="top" width="33%""></div>
 <div align="center"> <h2> Backend  </h2></div>
