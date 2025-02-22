@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my [Learning-Path](#learning-path)
 - ⚡ Fun fact: I cannot see written code misaligned
-- 🌱 Working hard to learn more abilites!
+- 🌱 Working hard to learn more abilites! 🦾
 
 <div align="center">
 
@@ -13,9 +13,9 @@
 <div align="center"> <h2> Frontend </h2></div> 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 </div>
 
@@ -24,12 +24,15 @@
 <div align="center"> <h2> Backend </h2></div> 
 <div align="center" >
 
-![Java](https://img.shields.io/badge/Java-ff9300?style=for-the-badge&logo=coffeescript)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-12980e?style=for-the-badge&logo=springboot&logoColor=FFFFFF)
-![SpringBoot](https://img.shields.io/badge/spring%20security-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-008fff?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/mariadb-%23003545?style=for-the-badge&logo=mariadb)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Cloud-6DB33F?logo=springboot&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
 </div>
 
@@ -38,8 +41,11 @@
 <div align="center"> <h2> Tools and others</h2></div>  
 <div align="center">
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![JUnit5](https://img.shields.io/badge/jUnit5-FFFFFF?style=for-the-badge&logo=junit5)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Gitea](https://img.shields.io/badge/Gitea-6eaa5b?logo=gitea&logoColor=fff)](#)
+![JUnit5](https://img.shields.io/badge/jUnit5-FFFFFF?&logo=junit5)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 
 </div>
 
@@ -55,25 +61,27 @@
 <div align="center"> <h2> Frontend  </h2></div>
 <div align="center">
   
-![Angular](https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=angular)
-![Typescript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20css-1f1379?style=for-the-badge&logo=tailwindcss)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 
 </td><td valign="top" width="33%""></div>
 <div align="center"> <h2> Backend  </h2></div>
 <div align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
 </td><td valign="top" width="33%""></div>
 
 <div align="center"> <h2> Tools and others</h2></div> 
 <div align="center">
 
-![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 
 </div>
 
@@ -107,7 +115,4 @@
   <a href="https://linkedin.com/in/franciscosaurit" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-
-<img src="https://fr4ncisx.github.io/Challenge-Alura/img/AR.svg" width="10%"></img>
-
 </div>
