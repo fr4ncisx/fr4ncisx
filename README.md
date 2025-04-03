@@ -1,8 +1,20 @@
-## <div align="left">I'm Francisco, full-time backend developer</div>
+## Hi, I'm Francisco! 👋  
+I'm a **backend developer** with a passion for building efficient and scalable systems. I’m constantly learning and improving my skills to stay ahead in this fast paced tech world.
 
-- 🔭 I’m currently working on my [Learning-Path](#learning-path)
-- ⚡ Fun fact: I cannot see written code misaligned
-- 🌱 Working hard to learn more abilites! 🦾
+🔭 **Currently working on:**  
+My **[Learning Path](#learning-path)** to enhance my backend knowledge, dive deeper into new technologies, and refine my understanding of software architecture.
+
+⚡ **Fun fact:**  
+I cannot stand misaligned code. It just *bothers* me! Whether it’s inconsistent indentation or poor formatting, I have to fix it before moving on.
+
+I also hate the warnings and try to solve them pretty fast.
+
+🌱 **Always learning:**  
+I'm focused on leveling up my backend abilities, including exploring new frameworks, databases, and tools that help create more efficient and maintainable systems.
+
+🦾 **Goal:**  
+To become a backend expert who writes clean, optimized code and creates robust systems that stand the test of time.
+
 
 <div align="center">
 
@@ -105,13 +117,6 @@
 </div>
 
 <div align="center">
-  
-  <a href="https://github.com/fr4ncisx" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/fr4ncisx" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram alt=instagram style="margin-bottom: 5px;" />
-  </a>
   <a href="https://linkedin.com/in/franciscosaurit" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
