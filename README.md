@@ -6,8 +6,8 @@ My **[Learning Path](#learning-path)** to enhance my backend knowledge, dive dee
 
 ⚡ **Fun fact:**  
 I cannot stand misaligned code. It just *bothers* me! Whether it’s inconsistent indentation or poor formatting, I have to fix it before moving on.
-
 I also hate the warnings and try to solve them pretty fast.
+Im a big fan of Excalidraw to make diagrams or whatever related with development
 
 🌱 **Always learning:**  
 I'm focused on leveling up my backend abilities, including exploring new frameworks, databases, and tools that help create more efficient and maintainable systems.
@@ -22,7 +22,7 @@ To become a backend expert who writes clean, optimized code and creates robust s
 
 <table><tr><td valign="top" width="33%">
 
-<div align="center"> <h2> Frontend </h2></div> 
+<h2 align="center">Frontend</h2>
 <div align="center">
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
@@ -33,7 +33,7 @@ To become a backend expert who writes clean, optimized code and creates robust s
 
 </td><td valign="top" width="33%">
 
-<div align="center"> <h2> Backend </h2></div> 
+<h2 align="center">Backend </h2>
 <div align="center" >
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -50,7 +50,7 @@ To become a backend expert who writes clean, optimized code and creates robust s
 
 </td><td valign="top" width="33%">
 
-<div align="center"> <h2> Tools and others</h2></div>  
+<h2 align="center">Tools and others </h2> 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
@@ -71,7 +71,7 @@ To become a backend expert who writes clean, optimized code and creates robust s
 ## Learning Path 
 <table><tr><td valign="top" width="33%">
 
-<div align="center"> <h2> Frontend  </h2></div>
+<h2 align="center">Frontend </h2>
 <div align="center">
   
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
@@ -79,7 +79,7 @@ To become a backend expert who writes clean, optimized code and creates robust s
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-white?style=flat&logo=tailwindcss&logoColor=blue)
 
 </td><td valign="top" width="33%""></div>
-<div align="center"> <h2> Backend  </h2></div>
+<h2 align="center">Backend</h2>
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -88,7 +88,7 @@ To become a backend expert who writes clean, optimized code and creates robust s
 
 </td><td valign="top" width="33%""></div>
 
-<div align="center"> <h2> Tools and others</h2></div> 
+<h2 align="center">Tools and others</h2>
 <div align="center">
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
@@ -98,27 +98,19 @@ To become a backend expert who writes clean, optimized code and creates robust s
 
 </div>
 
-</td></tr></table> </div>
+</td></tr></table></div>
 
 <br/>
 
-<h2 align="center"> My stats at GitHub</h2> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr4ncisx&hide_border=false&layout=compact&theme=tokyonight" align="center" /></div>
-
-<br/>
-
-<!-- Linea de separación de redes sociales y apoyo -->
-<h2 align="center"> Socials and Support me  </h2>
-<div align="center">
-  
-![Profile views counter](https://komarev.com/ghpvc/?username=fr4ncisx&&style=flat-square)
-<a href="https://paypal.me/devfr4ncisx" target="_blank">
-<img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"/></a>
-
-</div>
+<h2 align="center">📊 My Stats at GitHub</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/franciscosaurit" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr4ncisx&hide_border=false&layout=compact&theme=tokyonight" />
+  </br>
+  </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fr4ncisx&theme=tokyonight" />
+  </br>
+  </br>
+  <img src="https://github-profile-trophy.vercel.app/?username=fr4ncisx&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
+
