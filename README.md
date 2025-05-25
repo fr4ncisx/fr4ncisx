@@ -6,7 +6,9 @@ My **[Learning Path](#learning-path)** to enhance my backend knowledge, dive dee
 
 ⚡ **Fun fact:**  
 I cannot stand misaligned code. It just *bothers* me! Whether it’s inconsistent indentation or poor formatting, I have to fix it before moving on.
+
 I also hate the warnings and try to solve them pretty fast.
+
 Im a big fan of Excalidraw to make diagrams or whatever related with development
 
 🌱 **Always learning:**  
