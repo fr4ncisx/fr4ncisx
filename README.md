@@ -1,21 +1,25 @@
-## Hi, I'm Francisco! 👋  
-I'm a **backend developer** with a passion for building efficient and scalable systems. I’m constantly learning and improving my skills to stay ahead in this fast paced tech world.
+## Hi, I'm Francisco! 👋
 
-🔭 **Currently working on:**  
-My **[Learning Path](#learning-path)** to enhance my backend knowledge, dive deeper into new technologies, and refine my understanding of software architecture.
+I'm a **backend developer** driven by a passion for creating robust, scalable, and maintainable systems. I thrive in fast-paced tech environments and constantly push myself to stay ahead by learning new technologies and best practices.  
+I'm currently pursuing an **Associate Degree in Software Development**, which complements my hands-on experience with solid theoretical foundations in programming, systems design, and software engineering.
 
-⚡ **Fun fact:**  
-I cannot stand misaligned code. It just *bothers* me! Whether it’s inconsistent indentation or poor formatting, I have to fix it before moving on.
 
-I also hate the warnings and try to solve them pretty fast.
+🔭 **What I'm working on:**  
+I'm currently focused on a self-guided **[Learning Path](#learning-path)** to deepen my backend expertise, explore cutting-edge tools, and refine my understanding of modern software architecture and system design.
 
-Im a big fan of Excalidraw to make diagrams or whatever related with development
+⚡ **A bit about me:**  
+Messy code is my nemesis. If the indentation is off or the formatting is inconsistent, I *have* to fix it — I just can't move forward otherwise.  
+Also, warnings? They don’t last long in my projects. I aim to resolve them immediately — clean code is non-negotiable.
 
-🌱 **Always learning:**  
-I'm focused on leveling up my backend abilities, including exploring new frameworks, databases, and tools that help create more efficient and maintainable systems.
+🛠️ I frequently use **Excalidraw** to sketch diagrams, system flows, and development ideas. It's an essential part of my workflow for visual thinking and planning.
 
-🦾 **Goal:**  
-To become a backend expert who writes clean, optimized code and creates robust systems that stand the test of time.
+🌱 **Always evolving:**  
+I'm constantly exploring new backend frameworks, databases, and architectural patterns to build cleaner and more scalable systems.  
+Recently, I’ve been deepening my knowledge in **Artificial Intelligence**, especially **Natural Language Processing (NLP)** — fascinated by how machines interpret human language and how these technologies can enhance modern applications.  
+At the same time, I’m exploring **mobile development with Kotlin**, aiming to build smooth, responsive Android experiences while applying clean architecture principles throughout the app lifecycle.
+
+🦾 **Looking ahead:**  
+My ambition is to become a **Senior Developer**, expand my skill set into **mobile development** and **AI**, and give back by mentoring and supporting others in their journey as developers.
 
 
 <div align="center">
@@ -52,7 +56,7 @@ To become a backend expert who writes clean, optimized code and creates robust s
 
 </td><td valign="top" width="33%">
 
-<h2 align="center">Tools and others </h2> 
+<h2 align="center">Tools and others </h2>
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
@@ -69,33 +73,39 @@ To become a backend expert who writes clean, optimized code and creates robust s
 <br/>
 
 <div align="center">
-  
-## Learning Path 
-<table><tr><td valign="top" width="33%">
+
+## Learning Path
+<table><tr><td valign="top" width="25%">
 
 <h2 align="center">Frontend </h2>
 <div align="center">
-  
+
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-white?style=flat&logo=tailwindcss&logoColor=blue)
 
-</td><td valign="top" width="33%""></div>
+</td><td valign="top" width="25%""></div>
 <h2 align="center">Backend</h2>
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
-</td><td valign="top" width="33%""></div>
+</td><td valign="top" width="25%""></div>
 
 <h2 align="center">Tools and others</h2>
 <div align="center">
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=icloud&logoColor=white)](#)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](#)
+
+</td><td valign="top" width="25%""></div>
+<h2 align="center">Mobile</h2>
+<div align="center">
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?logo=Kotlin&logoColor=white)](#)
 
 
 </div>
@@ -115,4 +125,3 @@ To become a backend expert who writes clean, optimized code and creates robust s
   </br>
   <img src="https://github-profile-trophy.vercel.app/?username=fr4ncisx&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
-
