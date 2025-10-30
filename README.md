@@ -80,7 +80,7 @@ My ambition is to become a **Senior Developer**, expand my skill set into **mobi
 <h2 align="center">Frontend </h2>
 <div align="center">
 
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
+![React](https://img.shields.io/badge/React-blue?style=flat&logo=React)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-white?style=flat&logo=tailwindcss&logoColor=blue)
 
@@ -88,8 +88,6 @@ My ambition is to become a **Senior Developer**, expand my skill set into **mobi
 <h2 align="center">Backend</h2>
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
 </td><td valign="top" width="25%""></div>
